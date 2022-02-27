@@ -1,3 +1,5 @@
+Dialog 如果有问题 可以来这里找找答案
+
 # AndroidNavigation
 
 A library managing nested Fragment, translucent StatusBar and Toolbar for Android.
